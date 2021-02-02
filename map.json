@@ -91,7 +91,7 @@
          "height":34,
          "id":5,
          "name":"site",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite ",
@@ -99,7 +99,7 @@
                  "value":"https:\/\/www.google.fr"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
