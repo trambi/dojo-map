@@ -94,9 +94,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https://www.google.fr"
+                 "value":"AeroGarareDojoSallePrincipale"
                 }],
          "type":"tilelayer",
          "visible":true,
