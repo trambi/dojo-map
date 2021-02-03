@@ -94,9 +94,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsite ",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.fr"
+                 "value":"https://www.google.fr"
                 }],
          "type":"tilelayer",
          "visible":true,
